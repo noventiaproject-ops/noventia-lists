@@ -1,0 +1,299 @@
+{
+  "id": "dex-programs",
+  "kind": "program",
+  "title": "Swap programs",
+  "use": "The transaction check of the public API names these programs when a transaction calls them. A program with no entry is shown by its address, with a note that it is outside the lists.",
+  "version": 2,
+  "titleCode": "recognized.dex-programs.title",
+  "useCode": "recognized.dex-programs.use",
+  "entries": [
+    {
+      "address": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "name": "Jupiter Swap (v6)",
+      "group": "Jupiter",
+      "role": "program",
+      "source": "https://developers.jup.ag/docs/swap/common-errors (Jupiter developer documentation: the Swap Program IDL is linked at this address; read 14 November 2026)",
+      "sourceUrl": "https://developers.jup.ag/docs/swap/common-errors"
+    },
+    {
+      "address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "name": "Orca Whirlpool",
+      "group": "Orca",
+      "role": "program",
+      "source": "https://github.com/orca-so/whirlpools (README of Orca's repository: the Whirlpool program on Solana mainnet; read 14 November 2026)",
+      "sourceUrl": "https://github.com/orca-so/whirlpools"
+    },
+    {
+      "address": "MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "name": "Manifest",
+      "group": "Manifest",
+      "role": "program",
+      "source": "https://github.com/CKS-Systems/manifest (README of the Manifest repository: the core program; read 14 November 2026)",
+      "sourceUrl": "https://github.com/CKS-Systems/manifest"
+    },
+    {
+      "address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "name": "Raydium CLMM",
+      "group": "Raydium",
+      "role": "program",
+      "source": "https://docs.raydium.io/reference/program-addresses (Raydium documentation, program addresses, mainnet-beta; read 14 November 2026)",
+      "sourceUrl": "https://docs.raydium.io/reference/program-addresses"
+    },
+    {
+      "address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+      "name": "Raydium AMM v4",
+      "group": "Raydium",
+      "role": "program",
+      "source": "https://docs.raydium.io/reference/program-addresses (Raydium documentation, program addresses, mainnet-beta; read 14 November 2026)",
+      "sourceUrl": "https://docs.raydium.io/reference/program-addresses"
+    },
+    {
+      "address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+      "name": "Raydium CPMM",
+      "group": "Raydium",
+      "role": "program",
+      "source": "https://docs.raydium.io/reference/program-addresses (Raydium documentation, program addresses, mainnet-beta; read 14 November 2026)",
+      "sourceUrl": "https://docs.raydium.io/reference/program-addresses"
+    },
+    {
+      "address": "5quBtoiQqxF9Jv6KYKctB59NT3gtJD2Y65kdnB1Uev3h",
+      "name": "Raydium Stable AMM",
+      "group": "Raydium",
+      "role": "program",
+      "source": "https://docs.raydium.io/reference/program-addresses (Raydium documentation, program addresses, mainnet-beta; read 14 November 2026)",
+      "sourceUrl": "https://docs.raydium.io/reference/program-addresses"
+    },
+    {
+      "address": "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS",
+      "name": "Raydium AMM Routing",
+      "group": "Raydium",
+      "role": "program",
+      "source": "https://docs.raydium.io/reference/program-addresses (Raydium documentation, program addresses, mainnet-beta; read 14 November 2026)",
+      "sourceUrl": "https://docs.raydium.io/reference/program-addresses"
+    },
+    {
+      "address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "name": "Meteora DLMM",
+      "group": "Meteora",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi (Meteora documentation, programs table; read 14 November 2026)",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+      "name": "Meteora DAMM v1",
+      "group": "Meteora",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi (Meteora documentation, programs table; read 14 November 2026)",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG",
+      "name": "Meteora DAMM v2",
+      "group": "Meteora",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi (Meteora documentation, programs table; read 14 November 2026)",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
+      "name": "Meteora Dynamic Bonding Curve",
+      "group": "Meteora",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi (Meteora documentation, programs table; read 14 November 2026)",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi",
+      "name": "Meteora Dynamic Vault",
+      "group": "Meteora",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi (Meteora documentation, programs table; read 14 November 2026)",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "MERLuDFBMmsHnsBPZw2sDQZHvXFMwp8EdjudcU2HKky",
+      "name": "Mercurial Stable Swap",
+      "group": "Meteora",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi (Meteora documentation, programs table; read 14 November 2026)",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "PhoeNiXZ8ByJGLkxNfZRnkUfjvmuYqLR89jjFHGqdXY",
+      "name": "Phoenix",
+      "group": "Phoenix",
+      "role": "program",
+      "source": "https://github.com/Ellipsis-Labs/phoenix-v1 (README of the Phoenix repository, build verification of the deployed program; read 14 November 2026)",
+      "sourceUrl": "https://github.com/Ellipsis-Labs/phoenix-v1"
+    },
+    {
+      "address": "opnb2LAfJYbRMAHHvqjCwQxanZn7ReEHp1k81EohpZb",
+      "name": "OpenBook v2",
+      "group": "OpenBook",
+      "role": "program",
+      "source": "https://github.com/openbook-dex/openbook-v2 (README of the OpenBook v2 repository: the mainnet program; read 14 November 2026)",
+      "sourceUrl": "https://github.com/openbook-dex/openbook-v2"
+    },
+    {
+      "address": "jupZ4m2GqUCJ5iueMfzQf8khFfH31d4XAQt3RzCT9Vd",
+      "name": "Jupiter Lend AMM",
+      "group": "Jupiter",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's own API naming Jupiter's own program; read 14 November 2026)",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "jup3YeL8QhtSx1e253b2FDvsMNC87fDrgQZivbrndc9",
+      "name": "Jupiter Lend Earn",
+      "group": "Jupiter",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's own API naming Jupiter's own program; read 14 November 2026)",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "fd3nMFYTQjX1yr5ER8u7tPdHJB7qt8RpDpNtLQX2Br5",
+      "name": "Jupiter RFQ v2",
+      "group": "Jupiter",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's own API naming Jupiter's own program; read 14 November 2026)",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "DRVSpZ2YUYYKgZP8XtLhAGtT1zYSCKzeHfb4DgRnrgqD",
+      "name": "Deriverse",
+      "group": "Deriverse",
+      "role": "program",
+      "source": "https://www.npmjs.com/package/@deriverse/kit (README of the Deriverse project's own package: the mainnet program id; read 14 November 2026)",
+      "sourceUrl": "https://www.npmjs.com/package/@deriverse/kit"
+    },
+    {
+      "address": "ZERor4xhbUycZ6gb9ntrhqscUcZmAbQDjEAtCf4hbZY",
+      "name": "ZeroFi",
+      "group": "ZeroFi",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "ojh19ojaKduoJZuaJADhcVGp4xt1TcdAvZmpVsCorch",
+      "name": "Scorch",
+      "group": "Scorch",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "3TK9D8aoBFYjYZtKCjciPrVrRStsnvo7KmpcJqDavpaU",
+      "name": "Kipseli",
+      "group": "Kipseli",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "goonuddtQRrWqqn5nFyczVKaie28f3kDkHWkHtURSLE",
+      "name": "GoonFi V2",
+      "group": "GoonFi V2",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "9H6tua7jkLhdm3w8BvgpTn5LZNU7g4ZynDmCiNN3q6Rp",
+      "name": "HumidiFi",
+      "group": "HumidiFi",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+      "name": "SolFi",
+      "group": "SolFi",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "SV2EYYJyRz2YhfXwXnhNAevDEui5Q6yrfyo13WtupPF",
+      "name": "SolFi V2",
+      "group": "SolFi V2",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "obriQD1zbpyLz95G5n7nJe6a4DPjpFwa5XYPoNm113y",
+      "name": "Obric V2",
+      "group": "Obric V2",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "TessVdML9pBGgG9yGks7o4HewRaXVAMuoVj4x83GLQH",
+      "name": "TesseraV",
+      "group": "TesseraV",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "ALPHAQmeA7bjrVuccPsYPiCvsi428SNwte66Srvs4pHA",
+      "name": "AlphaQ",
+      "group": "AlphaQ",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "AQU1FRd7papthgdrwPTTq5JacJh8YtwEXaBfKU3bTz45",
+      "name": "Aquifer",
+      "group": "Aquifer",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "BiSoNHVpsVZW2F7rx2eQ59yQwKxzU5NvBcmKshCSUypi",
+      "name": "BisonFi",
+      "group": "BisonFi",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "BSwp6bEBihVLdqJRKGgzjcGLHkcTuzmSo1TQkHepzH8p",
+      "name": "Bonkswap",
+      "group": "Bonkswap",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "name": "Byreal",
+      "group": "Byreal",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "HpNfyc2Saw7RKkQd8nEL4khUcuPhQ7WwY1B2qjx8jxFq",
+      "name": "PancakeSwap",
+      "group": "PancakeSwap",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "Archer8kgiavM61GyusMzaaS2ft5sALtNsD1HxkUPMhy",
+      "name": "Archer",
+      "group": "Archer",
+      "role": "program",
+      "source": "Named by Jupiter routing: https://lite-api.jup.ag/swap/v1/program-id-to-label (Jupiter's official map from program to DEX name; read 14 November 2026). The project publishes no address of its own that we found.",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    }
+  ]
+}

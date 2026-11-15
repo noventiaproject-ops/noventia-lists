@@ -1,0 +1,25 @@
+{
+  "id": "lockers",
+  "kind": "locker",
+  "title": "Lockers",
+  "use": "Programs that hold tokens under a lock or a vesting schedule. A distribution report names the program when tokens move to it.",
+  "version": 1,
+  "titleCode": "recognized.lockers.title",
+  "useCode": "recognized.lockers.use",
+  "entries": [
+    {
+      "address": "strmRqUCoQUgGUan5YhzUZa6KqdzwX5L6FpUxfmKg5m",
+      "name": "Streamflow Vesting",
+      "role": "program",
+      "source": "https://github.com/jup-ag/platform-list/blob/24ce8fa2f6f05563be6bc232b26605afa73b309c/src/platforms/streamflow.ts",
+      "sourceUrl": "https://github.com/jup-ag/platform-list/blob/24ce8fa2f6f05563be6bc232b26605afa73b309c/src/platforms/streamflow.ts"
+    },
+    {
+      "address": "LocpQgucEQHbqNABEYvBvwoxCPsSbG91A1QaQhQQqjn",
+      "name": "Jupiter Lock",
+      "role": "program",
+      "source": "https://github.com/jup-ag/platform-list/blob/24ce8fa2f6f05563be6bc232b26605afa73b309c/src/platforms/jupiter-exchange.ts",
+      "sourceUrl": "https://github.com/jup-ag/platform-list/blob/24ce8fa2f6f05563be6bc232b26605afa73b309c/src/platforms/jupiter-exchange.ts"
+    }
+  ]
+}

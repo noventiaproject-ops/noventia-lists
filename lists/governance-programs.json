@@ -1,0 +1,25 @@
+{
+  "id": "governance-programs",
+  "kind": "program",
+  "title": "Governance programs",
+  "use": "A vote cast through one of these counts as a DAO vote in the Builder branch.",
+  "version": 1,
+  "titleCode": "recognized.governance-programs.title",
+  "useCode": "recognized.governance-programs.use",
+  "entries": [
+    {
+      "address": "voTpe3tHQ7AjQHMapgSue2HJFAh2cGsdokqN3XqmVSj",
+      "name": "Jupiter DAO (locked voter)",
+      "role": "program",
+      "source": "Parsed Events names it locked_voter.cast_vote, accounts locker, escrow, vote_delegate (signer), proposal, vote, governor, govern_program; it calls govern.set_vote on GovaE4iu227srtG2s3tZzB4RmWBzw8sTwrCLZz7kN7rY",
+      "sourceUrl": null
+    },
+    {
+      "address": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+      "name": "SPL Governance (Realms)",
+      "role": "program",
+      "source": "https://github.com/solana-labs/solana-program-library/blob/master/governance/program/src/instruction.rs: GovernanceInstruction::CastVote is variant 13; accounts 2 = proposal, 5 = governance authority (signer)",
+      "sourceUrl": "https://github.com/solana-labs/solana-program-library/blob/master/governance/program/src/instruction.rs:"
+    }
+  ]
+}

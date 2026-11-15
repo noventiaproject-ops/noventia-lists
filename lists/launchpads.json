@@ -1,0 +1,67 @@
+{
+  "id": "launchpads",
+  "kind": "launchpad",
+  "title": "Launchpads",
+  "use": "A token authority held by one of these belongs to the launchpad and does not sign in a project. A first funding from one links nobody.",
+  "version": 2,
+  "titleCode": "recognized.launchpads.title",
+  "useCode": "recognized.launchpads.use",
+  "entries": [
+    {
+      "address": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "name": "Pump.fun",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+      "name": "Pump.fun mint authority",
+      "role": "authority",
+      "source": "PDA of 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P with the seed \"mint-authority\" (derived in test/config/launchpads.test.ts)",
+      "sourceUrl": null
+    },
+    {
+      "address": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+      "name": "Raydium LaunchLab",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh",
+      "name": "Raydium LaunchLab authority",
+      "role": "authority",
+      "source": "PDA of LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj with the seed \"vault_auth_seed\": https://docs.raydium.io/products/launchlab/accounts (\"Single PDA at seed [b\\\"vault_auth_seed\\\"] that owns vaults across all launches\"), derived in the tests and seen as the metadata update authority of two LaunchLab tokens on 8 November 2026",
+      "sourceUrl": "https://docs.raydium.io/products/launchlab/accounts"
+    },
+    {
+      "address": "dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN",
+      "name": "Meteora Dynamic Bonding Curve",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label (\"Dynamic Bonding Curve\")",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "FhVo3mqL8PW5pH5U2CN4XE33DokiyZnUwuGpH2hmHLuM",
+      "name": "Meteora Dynamic Bonding Curve pool authority",
+      "role": "authority",
+      "source": "PDA of dbcij3LWUppWqq96dh6gJWwBifmcGfLSB5D4DuSMaqN with the seed \"pool_authority\": https://docs.meteora.ag/developer-guides/dbc/program/accounts (the deployed address is given there), derived in the tests",
+      "sourceUrl": "https://docs.meteora.ag/developer-guides/dbc/program/accounts"
+    },
+    {
+      "address": "MoonCVVNZFSYkqNXP6bxHLPL6QQJiMagDL3qcqUQTrG",
+      "name": "Moonshot (Moonit)",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label (\"Moonit\")",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "11111111111111111111111111111111",
+      "name": "System program as an authority: nobody",
+      "role": "authority",
+      "source": "Solana system program id; seen as the metadata update authority of Moonshot tokens on 8 November 2026",
+      "sourceUrl": null
+    }
+  ]
+}

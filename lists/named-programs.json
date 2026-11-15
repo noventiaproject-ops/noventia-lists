@@ -1,0 +1,88 @@
+{
+  "id": "named-programs",
+  "kind": "program",
+  "title": "Programs named in reports",
+  "use": "A distribution report names these programs when tokens move to them. A program with no entry is shown by its address.",
+  "version": 1,
+  "titleCode": "recognized.named-programs.title",
+  "useCode": "recognized.named-programs.use",
+  "entries": [
+    {
+      "address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "name": "Meteora DLMM",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG",
+      "name": "Meteora DAMM v2",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+      "name": "Meteora DAMM v1",
+      "role": "program",
+      "source": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi",
+      "sourceUrl": "https://docs.meteora.ag/get-started/pushing-the-boundaries-of-defi"
+    },
+    {
+      "address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "name": "Orca Whirlpool",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "j1o2qRpjcyUwEvwtcfhEQefh773ZgjxcVRry7LDqg5X",
+      "name": "Jupiter Limit Order",
+      "role": "program",
+      "source": "https://github.com/jup-ag/platform-list/blob/37361227352c3f2b244897c823549392733be1f1/src/platforms/jupiter-exchange.ts",
+      "sourceUrl": "https://github.com/jup-ag/platform-list/blob/37361227352c3f2b244897c823549392733be1f1/src/platforms/jupiter-exchange.ts"
+    },
+    {
+      "address": "jupoNjAxXgZ4rjzxzPMP4oxduvQsQtZzyknqvzYNrNu",
+      "name": "Jupiter Limit Order",
+      "role": "program",
+      "source": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/jupiter-exchange.ts",
+      "sourceUrl": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/jupiter-exchange.ts"
+    },
+    {
+      "address": "DCA265Vj8a9CEuX1eb1LWRnDT7uK6q1xMipnNyatn23M",
+      "name": "Jupiter DCA",
+      "role": "program",
+      "source": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/jupiter-exchange.ts",
+      "sourceUrl": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/jupiter-exchange.ts"
+    },
+    {
+      "address": "voTpe3tHQ7AjQHMapgSue2HJFAh2cGsdokqN3XqmVSj",
+      "name": "Jupiter DAO, Locker Vote",
+      "role": "program",
+      "source": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/jupiter-governance.ts",
+      "sourceUrl": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/jupiter-governance.ts"
+    },
+    {
+      "address": "MFv2hWf31Z9kbCa1snEPYctwafyhdvnV7FZnsebVacA",
+      "name": "Marginfi Lending",
+      "role": "program",
+      "source": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/marginfi.ts",
+      "sourceUrl": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/marginfi.ts"
+    },
+    {
+      "address": "dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH",
+      "name": "Drift",
+      "role": "program",
+      "source": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/drift.ts",
+      "sourceUrl": "https://github.com/jup-ag/platform-list/blob/864f6e1f9ed1fce42b2cd65854a870eba2c8f3c3/src/platforms/drift.ts"
+    },
+    {
+      "address": "refnrNncADccJPZEB5hHuiFVb3trY5LH39ykwMD59Ht",
+      "name": "A staking program whose instructions are named \"referral\" (stake, unstake, withdraw)",
+      "role": "program",
+      "source": "https://solscan.io/account/refnrNncADccJPZEB5hHuiFVb3trY5LH39ykwMD59Ht",
+      "sourceUrl": "https://solscan.io/account/refnrNncADccJPZEB5hHuiFVb3trY5LH39ykwMD59Ht"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "exchanges",
+  "kind": "exchange",
+  "title": "Exchange wallets",
+  "use": "A wallet whose first SOL came from one of these is linked to nobody by that transfer. Tokens moved to one are counted as moved to an exchange in a distribution report.",
+  "version": 2,
+  "titleCode": "recognized.exchanges.title",
+  "useCode": "recognized.exchanges.use",
+  "reference": {
+    "url": "https://github.com/duneanalytics/spellbook/blob/447a87c9068b505a54233b6b4ebf879179832201/dbt_subprojects/hourly_spellbook/models/_sector/cex/addresses/chains/solana/cex_solana_addresses.sql",
+    "entryCount": 112,
+    "license": "Business Source License 1.1",
+    "note": "The rows come from Dune Spellbook, which is published under the Business Source License 1.1. This repository links to the file at the commit the core uses and holds no copy of its rows."
+  }
+}

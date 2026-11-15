@@ -1,0 +1,74 @@
+{
+  "asOf": "2026-11-15",
+  "infrastructureVersion": "ex2-lp2-br1",
+  "lists": [
+    {
+      "id": "exchanges",
+      "kind": "exchange",
+      "version": 2,
+      "entries": 112,
+      "file": "lists/exchanges.json",
+      "copied": false
+    },
+    {
+      "id": "launchpads",
+      "kind": "launchpad",
+      "version": 2,
+      "entries": 8,
+      "file": "lists/launchpads.json",
+      "copied": true
+    },
+    {
+      "id": "lockers",
+      "kind": "locker",
+      "version": 1,
+      "entries": 2,
+      "file": "lists/lockers.json",
+      "copied": true
+    },
+    {
+      "id": "bridges",
+      "kind": "bridge",
+      "version": 1,
+      "entries": 12,
+      "file": "lists/bridges.json",
+      "copied": true
+    },
+    {
+      "id": "pool-programs",
+      "kind": "program",
+      "version": 1,
+      "entries": 24,
+      "file": "lists/pool-programs.json",
+      "copied": true
+    },
+    {
+      "id": "governance-programs",
+      "kind": "program",
+      "version": 1,
+      "entries": 2,
+      "file": "lists/governance-programs.json",
+      "copied": true
+    },
+    {
+      "id": "named-programs",
+      "kind": "program",
+      "version": 1,
+      "entries": 11,
+      "file": "lists/named-programs.json",
+      "copied": true
+    },
+    {
+      "id": "dex-programs",
+      "kind": "program",
+      "version": 2,
+      "entries": 36,
+      "file": "lists/dex-programs.json",
+      "copied": true
+    }
+  ],
+  "byNature": [
+    "An address off the ed25519 curve is an account of a program. It is not treated as a common funder.",
+    "The system program as an authority means nobody holds it."
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "pool-programs",
+  "kind": "program",
+  "title": "Liquidity pool programs",
+  "use": "A token account that belongs to a pool of one of these programs is liquidity. It is left out of the holders in a token check.",
+  "version": 1,
+  "titleCode": "recognized.pool-programs.title",
+  "useCode": "recognized.pool-programs.use",
+  "entries": [
+    {
+      "address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+      "name": "Raydium",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+      "name": "Raydium CP",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "name": "Raydium CLMM",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+      "name": "Raydium Launchlab",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "name": "Whirlpool",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "9W959DqEETiGZocYWCQPaJ6sBmUzgfxXfqGeTEdp3aQP",
+      "name": "Orca V2",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "DjVE6JNiYqPL2QXyCUUh8rNjHrbz9hXHNYt99MQ59qw1",
+      "name": "Orca V1",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "name": "Meteora DLMM",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+      "name": "Meteora",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "cpamdpZCGKUy5JxQXB4dcpGPiikHawvSWAd6mEn1sGG",
+      "name": "Meteora DAMM v2",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+      "name": "Pump.fun",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+      "name": "Pump.fun Amm",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "boop8hVGQGqehUK2iVEMEnMrL5RbjywRzHKBmBE7ry4",
+      "name": "Boop.fun",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "HEAVENoP2qxoeuF8Dj2oT1GHEnu49U5mJYkdeC8BAX2o",
+      "name": "Heaven",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "GAMMA7meSFWaBXF25oSUgmGRwaW6sCMFLmBNiMSdbHVT",
+      "name": "GooseFX GAMMA",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X",
+      "name": "FluxBeam",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "PhoeNiXZ8ByJGLkxNfZRnkUfjvmuYqLR89jjFHGqdXY",
+      "name": "Phoenix",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "opnb2LAfJYbRMAHHvqjCwQxanZn7ReEHp1k81EohpZb",
+      "name": "OpenBook V2",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "HyaB3W9q6XdA5xwpU4XnSZV94htfmbmqJXZcEbRaJutt",
+      "name": "Invariant",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "CLMM9tUoggJu2wagPkkqs9eFG4BWhVBZWkP1qv3Sp7tR",
+      "name": "Crema",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ",
+      "name": "Saber",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ",
+      "name": "Stabble Stable Swap",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "swapFpHZwjELNnjvThjajtiVmkz3yPQEHjLtka2fwHW",
+      "name": "Stabble Weighted Swap",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    },
+    {
+      "address": "6dMXqGZ3ga2dikrYS9ovDXgHGh5RUsb2RTUj6hrQXhk6",
+      "name": "Stabble CLMM",
+      "role": "program",
+      "source": "https://lite-api.jup.ag/swap/v1/program-id-to-label",
+      "sourceUrl": "https://lite-api.jup.ag/swap/v1/program-id-to-label"
+    }
+  ]
+}
