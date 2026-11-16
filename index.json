@@ -1,70 +1,78 @@
 {
-  "asOf": "2026-11-15",
-  "infrastructureVersion": "ex2-lp2-br1",
+  "asOf": "2026-11-16",
+  "infrastructureVersion": "ex3-lp2-br1",
   "lists": [
     {
       "id": "exchanges",
       "kind": "exchange",
-      "version": 2,
-      "entries": 112,
-      "file": "lists/exchanges.json",
-      "copied": false
+      "version": 3,
+      "entries": 150,
+      "copied": 76,
+      "linked": 74,
+      "file": "lists/exchanges.json"
     },
     {
       "id": "launchpads",
       "kind": "launchpad",
       "version": 2,
       "entries": 8,
-      "file": "lists/launchpads.json",
-      "copied": true
+      "copied": 8,
+      "linked": 0,
+      "file": "lists/launchpads.json"
     },
     {
       "id": "lockers",
       "kind": "locker",
       "version": 1,
       "entries": 2,
-      "file": "lists/lockers.json",
-      "copied": true
+      "copied": 2,
+      "linked": 0,
+      "file": "lists/lockers.json"
     },
     {
       "id": "bridges",
       "kind": "bridge",
       "version": 1,
       "entries": 12,
-      "file": "lists/bridges.json",
-      "copied": true
+      "copied": 12,
+      "linked": 0,
+      "file": "lists/bridges.json"
     },
     {
       "id": "pool-programs",
       "kind": "program",
       "version": 1,
       "entries": 24,
-      "file": "lists/pool-programs.json",
-      "copied": true
+      "copied": 24,
+      "linked": 0,
+      "file": "lists/pool-programs.json"
     },
     {
       "id": "governance-programs",
       "kind": "program",
       "version": 1,
       "entries": 2,
-      "file": "lists/governance-programs.json",
-      "copied": true
+      "copied": 2,
+      "linked": 0,
+      "file": "lists/governance-programs.json"
     },
     {
       "id": "named-programs",
       "kind": "program",
       "version": 1,
       "entries": 11,
-      "file": "lists/named-programs.json",
-      "copied": true
+      "copied": 11,
+      "linked": 0,
+      "file": "lists/named-programs.json"
     },
     {
       "id": "dex-programs",
       "kind": "program",
       "version": 2,
       "entries": 36,
-      "file": "lists/dex-programs.json",
-      "copied": true
+      "copied": 36,
+      "linked": 0,
+      "file": "lists/dex-programs.json"
     }
   ],
   "byNature": [

@@ -3,13 +3,623 @@
   "kind": "exchange",
   "title": "Exchange wallets",
   "use": "A wallet whose first SOL came from one of these is linked to nobody by that transfer. Tokens moved to one are counted as moved to an exchange in a distribution report.",
-  "version": 2,
+  "version": 3,
   "titleCode": "recognized.exchanges.title",
   "useCode": "recognized.exchanges.use",
+  "entries": [
+    {
+      "address": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+      "name": "Binance 1",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+      "name": "Binance 2",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "2ojv9BAiHUrvsm9gxDe7fJSzbNZSJcxZvf8dqmWGHG8S",
+      "name": "Binance 4",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "G9RCBaYb8aBRxoe8QBC2ucGrVqjuZFysRhY8d56cnNT1",
+      "name": "Binance 8",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "HXsKP7wrBWaQ8T2Vtjry3Nj3oUgwYcqq9vrHDM12G664",
+      "name": "Binance 9",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "3gd3dqgtJ4jWfBfLYTX67DALFetjc5iS72sCgRhCkW2u",
+      "name": "Binance 18",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "3yFwqXBfZY4jBVUafQ1YEXw189y2dN3V5KQq9uzBDy1E",
+      "name": "Binance 19",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "6QJzieMYfp7yr3EdrePaQoG3Ghxs2wM98xSLRu8Xh56U",
+      "name": "Binance 20",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "GBrURzmtWujJRTA3Bkvo7ZgWuZYLMMwPCwre7BejJXnK",
+      "name": "Binance 21",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "6oCa9Tz8VXVp63WiFyruE5PD6yXz3pCsv6oGzUGvg9TP",
+      "name": "Binance 22",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "GK35nWN6ZHSGZrRTf8kTQd8RkFCighChPEb41XwSFVAC",
+      "name": "Binance 23",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "EPauhjQjjTBCpeBtszS3xGRASLpEJFM1cspSiFRXZa9Z",
+      "name": "Binance 24",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+      "name": "MEXC 1",
+      "group": "MEXC",
+      "role": "wallet",
+      "source": "https://www.mexc.com/proof-of-reserve",
+      "sourceUrl": "https://www.mexc.com/proof-of-reserve"
+    },
+    {
+      "address": "FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a",
+      "name": "Bitfinex 9",
+      "group": "Bitfinex",
+      "role": "wallet",
+      "source": "https://github.com/bitfinexcom/pub/blob/83d06bdb5f5a2ce05d5ba2db5a426dd44c9f5128/wallets.txt",
+      "sourceUrl": "https://github.com/bitfinexcom/pub/blob/83d06bdb5f5a2ce05d5ba2db5a426dd44c9f5128/wallets.txt"
+    },
+    {
+      "address": "J4rzLDLhLWFpjSgCMCcxTU84bQ8AH5vhgjwq7SjYVk8Q",
+      "name": "Bitfinex 10",
+      "group": "Bitfinex",
+      "role": "wallet",
+      "source": "https://github.com/bitfinexcom/pub/blob/83d06bdb5f5a2ce05d5ba2db5a426dd44c9f5128/wallets.txt",
+      "sourceUrl": "https://github.com/bitfinexcom/pub/blob/83d06bdb5f5a2ce05d5ba2db5a426dd44c9f5128/wallets.txt"
+    },
+    {
+      "address": "FyJBKcfcEBzGN74uNxZ95GxnCxeuJJujQCELpPv14ZfN",
+      "name": "Bitfinex 11",
+      "group": "Bitfinex",
+      "role": "wallet",
+      "source": "https://github.com/bitfinexcom/pub/blob/83d06bdb5f5a2ce05d5ba2db5a426dd44c9f5128/wallets.txt",
+      "sourceUrl": "https://github.com/bitfinexcom/pub/blob/83d06bdb5f5a2ce05d5ba2db5a426dd44c9f5128/wallets.txt"
+    },
+    {
+      "address": "GnCRxKqUEPouYMvTb5nJMGrDB3VkTXZnDTaDuVZdnWA3",
+      "name": "Bitfinex 12",
+      "group": "Bitfinex",
+      "role": "wallet",
+      "source": "https://github.com/bitfinexcom/pub/blob/83d06bdb5f5a2ce05d5ba2db5a426dd44c9f5128/wallets.txt",
+      "sourceUrl": "https://github.com/bitfinexcom/pub/blob/83d06bdb5f5a2ce05d5ba2db5a426dd44c9f5128/wallets.txt"
+    },
+    {
+      "address": "Cet3t77x2BBVSmiEFm8ZPoDSngbpso2RuWPL79Ky7SpA",
+      "name": "Swissborg 1",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "Fe7SEekiKygziaEGKxsDsgLVzrCfNvVBvAYsaJBwFA8s",
+      "name": "Swissborg 2",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "2XxP4kS2vfkiMvpLpGNxry3fPUYimsuAmSbqL1KnuwZ8",
+      "name": "Swissborg 3",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "9qoUcyhKSWMbk6tqGUYQUpeosPcdUnJszG4eQKwfe4gL",
+      "name": "Swissborg 4",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "2E1UKoiiZPwsp4vn6tUh5k61kG2UqYpT7oBrFaJUJXXd",
+      "name": "Swissborg 5",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "BbHG9GvPActFGogv3iNrpDAj4qpXr8t3jF16uGxXcKci",
+      "name": "Backpack 8",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "43DbAvKxhXh1oSxkJSqGosNw3HpBnmsWiak6tB5wpecN",
+      "name": "Backpack 9",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "8NBEbxLknGv5aRYefFrW2qFXoDZyi9fSHJNiJRvEcMBE",
+      "name": "HTX 3",
+      "group": "HTX",
+      "role": "wallet",
+      "source": "https://github.com/huobiapi/Tool-Node.js-VerifyAddress/blob/0774c876e6df5400549005b3ec08de0fafdf97b9/snapshot/huobi_por.csv",
+      "sourceUrl": "https://github.com/huobiapi/Tool-Node.js-VerifyAddress/blob/0774c876e6df5400549005b3ec08de0fafdf97b9/snapshot/huobi_por.csv"
+    },
+    {
+      "address": "9un5wqE3q4oCjyrDkwsdD48KteCJitQX5978Vh7KKxHo",
+      "name": "OKX 10",
+      "group": "OKX",
+      "role": "wallet",
+      "source": "https://static.okx.com/cdn/okx/por/chain/por_csv_2026110100_V1.zip",
+      "sourceUrl": "https://static.okx.com/cdn/okx/por/chain/por_csv_2026110100_V1.zip"
+    },
+    {
+      "address": "CeGyfZdtbjzC5FeVXCBdYE1v397yxxqYgmMcUwtouJUu",
+      "name": "OKX 18",
+      "group": "OKX",
+      "role": "wallet",
+      "source": "https://static.okx.com/cdn/okx/por/chain/por_csv_2026110100_V1.zip",
+      "sourceUrl": "https://static.okx.com/cdn/okx/por/chain/por_csv_2026110100_V1.zip"
+    },
+    {
+      "address": "5VCwKtCXgCJ6kit5FybXjvriW3xELsFDhYrPSqtJNmcD",
+      "name": "OKX 33",
+      "group": "OKX",
+      "role": "wallet",
+      "source": "https://static.okx.com/cdn/okx/por/chain/por_csv_2026110100_V1.zip",
+      "sourceUrl": "https://static.okx.com/cdn/okx/por/chain/por_csv_2026110100_V1.zip"
+    },
+    {
+      "address": "28nYGHJyUVcVdxZtzKByBXEj127XnrUkrE3VaGuWj1ZU",
+      "name": "Ceffu 1",
+      "group": "Ceffu",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "5SDrsMNTYdhmApjfqYHDvjoW92f2S42vcc7zNDVcQ9Ej",
+      "name": "Ceffu 2",
+      "group": "Ceffu",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "BZ3kabSsMzbuJUguYxtmkRtzw7ACqw1DUMH8PcbvXiUr",
+      "name": "Ceffu 3",
+      "group": "Ceffu",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "38xCLm9kSExfGU1GdyVuX4vop7SZns9kU2mQyTmmMdUP",
+      "name": "Binance own list 1",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU",
+      "name": "Binance own list 2",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "3JR4ETCTVqnysiARm9LvuigzuXnDydbWXYYYpgZzzhDi",
+      "name": "Binance own list 3",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "2Ws5TuuhKriiJbp7e5AH9MSGZSgqcbimYA46moCHDR1L",
+      "name": "Binance own list 4",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "816grPei3abs1nc7dsYySuRg8D77wdqs3foy9qrjUj97",
+      "name": "Binance own list 5",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "9ocxBqQDwTKjZeethnmQhSHhAwps3gxdYKnu1ybLcWVi",
+      "name": "Binance own list 6",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "c5f9zfpkKMD9N8uLqJcFeJAAz7v12vDMnup9Y6EeQkk",
+      "name": "Binance own list 7",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "CnA5ysTnh7P3xJ8Wrs17T4gT7ndzpY7Uoi8FSJp9JiFd",
+      "name": "Binance own list 8",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "EtwjSV65xPjZxDmmoNTw78gdYxLa1ayqVo4kXGsjhMiA",
+      "name": "Binance own list 9",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "G7vNg68KfbjVLCTc8Uw9JVmaC4ZajpX97ApkToBqvviy",
+      "name": "Binance own list 10",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "H8BgJgae6qhMtf7BM2JtddywSQt11WdxHHxkGLNX5hss",
+      "name": "Binance own list 11",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "ZNGPVih8FfMTAZ1ZZj3n9g5dBQ5AdXX4ayJ9WHo6tpA",
+      "name": "Binance own list 12",
+      "group": "Binance",
+      "role": "wallet",
+      "source": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip",
+      "sourceUrl": "https://public.bnbstatic.com/static/proof-of-reserve/wallet_address_20261111.zip"
+    },
+    {
+      "address": "DMe3ddj7awSR3LFC64rjmCPexsrSv33QAxFoJux4vGH3",
+      "name": "Swissborg own list 1",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "J6wLEPrT8Jd2NiNSJAQwxdK7FDtDssawsMtLqkZ5E1ZP",
+      "name": "Swissborg own list 2",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "MEXkeo4BPUCZuEJ4idUUwMPu4qvc9nkqtLn3yAyZLxg",
+      "name": "Swissborg own list 3",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "EcGfuxwkM3ujBWaty5VW7H9mjJLd7LkY3m7nJZ6Sv7Sy",
+      "name": "Swissborg own list 4",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "C57RBagtGDYpTGxwG92gSKQ5ptQr4Wa9qz3yDBB6uu1B",
+      "name": "Swissborg own list 5",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "8V51vSJGYssywpKHrZacT3bpFYoeA1oD7hdvi1imnrVa",
+      "name": "Swissborg own list 6",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "CxbHK9geAiCc6yBVT7PhXEMXzwP7BGh8VB1TgbDV3uLq",
+      "name": "Swissborg own list 7",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "3jvARuePRR6KpNAeYYGRQzs8W4VYsWWxe4BfoTSTZhUr",
+      "name": "Swissborg own list 8",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "281BKbWX8f9XqexpmFGTGcrAzPbFtoSiBjTHUkVHQmtv",
+      "name": "Swissborg own list 9",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "H9RCk9jQYX1bZ6HmjDAiD4r8GMgF8zpW9P1pacze7L9E",
+      "name": "Swissborg own list 10",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "F98pLYBStoB31WNTWGoQMNz3A6uwoneivaYVCAD7Gim1",
+      "name": "Swissborg own list 11",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "4GiXcDsHVtqBZyUZBW55UcfAAgDcCm2Peojhhc6T3BZb",
+      "name": "Swissborg own list 12",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "EbUkjPNjzcbjK3iELhZS6PpNCr62pUsE7VkUvNdQpEYB",
+      "name": "Swissborg own list 13",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "FQxGUUAX3BdFArA2XdvPcRHt4CmRMCw5wLt8F5uDXmwa",
+      "name": "Swissborg own list 14",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "EKtwdf5gFPb58WJPENcS8qqPRoAkEwDLHfHk2S2nbTnB",
+      "name": "Swissborg own list 15",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "HGqHR9Wm6ETAgQHj7q1qcmywXHfDx48VuVovQpGTgsHU",
+      "name": "Swissborg own list 16",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "5GkNxL9QTRDdRFgJrhczbKUwDFecRa9obewHmPwfXGZW",
+      "name": "Swissborg own list 17",
+      "group": "Swissborg",
+      "role": "wallet",
+      "source": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv",
+      "sourceUrl": "https://github.com/SwissBorg/pub/blob/a558a0cf210e85bfd840ade60c6bf9a8d863cc3d/swissborg-wallets.csv"
+    },
+    {
+      "address": "EyzzXxQcR7NicVhMvHZy5DAeoCrxpCoY11pRneuysJiS",
+      "name": "Backpack own list 1",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "DFFN6XgrTYDR2uFvaXJFRcFrMrtt6ZbPxpDs3mVbpxuR",
+      "name": "Backpack own list 2",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "J16ovD5x6kZLYDYAa6CqfrwacHdM7fcKD9iKG5EoNeGR",
+      "name": "Backpack own list 3",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "4VULyn2PoqzF6EyQ9acJqeAwg7pwmQPppM56NRJyQ1Fi",
+      "name": "Backpack own list 4",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "6wspq3nz3qPQ9X6rbLM5bEDHK525yPSNqyqeABXcSMHQ",
+      "name": "Backpack own list 5",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "ByvBYWA19GaufT5xNoy48jPTTjhGGFVkvv8RYNTVEDcm",
+      "name": "Backpack own list 6",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "HgTWrWU195u6s4v3JiEjJFCb6J6wxtQh8DAYV63tCx6Q",
+      "name": "Backpack own list 7",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "HwDX5eJkzPAJ7y7ENrH23HaDGUgB4nXPxG8UsB4cEMGE",
+      "name": "Backpack own list 8",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "5stwKMsakQkH3uzN5eQx9LKzq6N8q3DBjXzkHyvudFde",
+      "name": "Backpack own list 9",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "FCQSFKkw2JPhpG4M18nvGfiNAK6N3gFBmp8pkn4CxYGs",
+      "name": "Backpack own list 10",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "6m68XVvBR4oLCgM7YFgH1VqzzV5vk9UimvmVUvyKw6c2",
+      "name": "Backpack own list 11",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "HQGAWeYg7EFTdCv5AetxpQaDK8s39y6Xp7SSsDVh3ybP",
+      "name": "Backpack own list 12",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "AdB5E9PCHYTuo8BdQcwkVPfWPDrZss6s1nGU7WLxxL38",
+      "name": "Backpack own list 13",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "9NJmj9VaTU9D7ytdzy5RHMrfAgw2pYwqnUhuMqatcsr",
+      "name": "Backpack own list 14",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "5RNEgXwftUuwhYm8q3fsy9BYQ88uMVCE48W8RioQ8b2W",
+      "name": "Backpack own list 15",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    },
+    {
+      "address": "JB2qSwkrCUxUuxat5uEKcAJC8hreFJvxgfWQQ8WQqJmi",
+      "name": "Backpack own list 16",
+      "group": "Backpack",
+      "role": "wallet",
+      "source": "https://backpack.exchange/reserves",
+      "sourceUrl": "https://backpack.exchange/reserves"
+    }
+  ],
   "reference": {
     "url": "https://github.com/duneanalytics/spellbook/blob/447a87c9068b505a54233b6b4ebf879179832201/dbt_subprojects/hourly_spellbook/models/_sector/cex/addresses/chains/solana/cex_solana_addresses.sql",
-    "entryCount": 112,
+    "entryCount": 74,
     "license": "Business Source License 1.1",
-    "note": "The rows come from Dune Spellbook, which is published under the Business Source License 1.1. This repository links to the file at the commit the core uses and holds no copy of its rows."
+    "note": "These rows come from Dune Spellbook, which is published under the Business Source License 1.1. This repository links to the file at the commit the core uses and holds no copy of them."
   }
 }
